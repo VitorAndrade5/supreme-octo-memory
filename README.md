@@ -1,2 +1,2 @@
 #titulo do meu projeto
-descrcicao do PROjeTO
+descrição do meu projeto
